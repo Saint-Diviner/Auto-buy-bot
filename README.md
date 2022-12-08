@@ -28,4 +28,4 @@ Nike consider using bots to buy sneakers to be unfair, but so far nobody has bee
 
 # Credits 
 
-Daniel Hinds
+Saint Diviner
